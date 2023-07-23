@@ -1,0 +1,1 @@
+Use Naive Bayes classfier to design a model that classifies the people into two categories with salaries above and below 50k.
